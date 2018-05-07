@@ -1,0 +1,73 @@
+[
+    {
+        "name": "John Doe",
+        "profile_url": "facebook.com/xxxxxxxx",
+        "title": "SWE INTERN",
+        "bio": "Rapha leads Squarespace Ireland and oversees the company’s global Customer Operations teams that support millions of Squarespace users. Prior to this role, Raphael spent eight years at Google developing and managing different operations teams in Brazil, Argentina, Poland and Ireland.",
+        "github": "github.com/aebc",
+        "id": "1"
+    },
+    {
+        "name": "Rapha Doe",
+        "profile_url": "facebook.com/vxxxxxxx",
+        "title": "UX/UI INTERN",
+        "bio": "Rapha leads Squarespace Ireland and oversees the company’s global Customer Operations teams that support millions of Squarespace users. Prior to this role, Raphael spent eight years at Google developing and managing different operations teams in Brazil, Argentina, Poland and Ireland.",
+        "fb_url": "fabcebook.com/ab1c",
+        "github": "github.com/bd3",
+        "id": "2"
+    },
+    {
+        "name": "Mikel Dee",
+        "profile_url": "facebook.com/axxxxxxx",
+        "title": "TSO",
+        "bio": "Rapha leads Squarespace Ireland and oversees the company’s global Customer Operations teams that support millions of Squarespace users. Prior to this role, Raphael spent eight years at Google developing and managing different operations teams in Brazil, Argentina, Poland and Ireland.",
+        "fb_url": "fabcebook.com/a2bc",
+        "github": "github.com/bdw",
+        "id": "3"
+    },
+     {
+        "name": "Mikel Dee",
+        "profile_url": "facebook.com/axxxxxxx",
+        "title": "TSO",
+        "bio": "Rapha leads Squarespace Ireland and oversees the company’s global Customer Operations teams that support millions of Squarespace users. Prior to this role, Raphael spent eight years at Google developing and managing different operations teams in Brazil, Argentina, Poland and Ireland.",
+        "fb_url": "fabcebook.com/a2bc",
+        "github": "github.com/bdw",
+        "id": "4"
+    },
+     {
+        "name": "Mikel Dee",
+        "profile_url": "facebook.com/axxxxxxx",
+        "title": "TSO",
+        "bio": "Rapha leads Squarespace Ireland and oversees the company’s global Customer Operations teams that support millions of Squarespace users. Prior to this role, Raphael spent eight years at Google developing and managing different operations teams in Brazil, Argentina, Poland and Ireland.",
+        "fb_url": "fabcebook.com/a2bc",
+        "github": "github.com/bdw",
+        "id": "5"
+    },
+     {
+        "name": "Mikel Dee",
+        "profile_url": "facebook.com/axxxxxxx",
+        "title": "TSO",
+        "bio": "Rapha leads Squarespace Ireland and oversees the company’s global Customer Operations teams that support millions of Squarespace users. Prior to this role, Raphael spent eight years at Google developing and managing different operations teams in Brazil, Argentina, Poland and Ireland.",
+        "fb_url": "fabcebook.com/a2bc",
+        "github": "github.com/bdw",
+        "id": "6"
+    },
+     {
+        "name": "Mikel Dee",
+        "profile_url": "facebook.com/axxxxxxx",
+        "title": "TSO",
+        "bio": "Rapha leads Squarespace Ireland and oversees the company’s global Customer Operations teams that support millions of Squarespace users. Prior to this role, Raphael spent eight years at Google developing and managing different operations teams in Brazil, Argentina, Poland and Ireland.",
+        "fb_url": "fabcebook.com/a2bc",
+        "github": "github.com/bdw",
+        "id": "7"
+    },
+     {
+        "name": "Mikel Dee",
+        "profile_url": "facebook.com/axxxxxxx",
+        "title": "TSO",
+        "bio": "Rapha leads Squarespace Ireland and oversees the company’s global Customer Operations teams that support millions of Squarespace users. Prior to this role, Raphael spent eight years at Google developing and managing different operations teams in Brazil, Argentina, Poland and Ireland.",
+        "fb_url": "fabcebook.com/a2bc",
+        "github": "github.com/bdw",
+        "id": "8"
+    }
+]
